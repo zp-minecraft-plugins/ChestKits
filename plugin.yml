@@ -1,0 +1,7 @@
+main: me.zackpollard.chestkits.ChestKits
+name: ChestKits
+version: 1.0
+commands:
+    chestkits:
+        description: chestkits
+        usage: Use /chestkits reload to reload the configuration
